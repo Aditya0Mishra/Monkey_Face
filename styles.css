@@ -1,0 +1,18 @@
+* {
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
+
+body {
+   background-color: beige;
+   height: 100vh;
+}
+
+.object {
+   height: 100%;
+   display: flex;
+   font-size: 100px;
+   align-items: center;
+   justify-content: center;
+}
